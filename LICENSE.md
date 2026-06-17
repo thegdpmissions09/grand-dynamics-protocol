@@ -21,3 +21,4 @@ The Protocol is provided "as is" without any warranty of any kind. In no event s
 
 ---
 © 2026 The GDP Missions,thegdpmissions09,grand-dynamics-protocol. All Rights Reserved.
+Email:thegdpmissons09@gmail.com
